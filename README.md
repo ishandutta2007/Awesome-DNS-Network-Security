@@ -31,6 +31,8 @@ Whether protecting a multi-region corporate enterprise from phishing and malware
 - [🧩 Recommended Architecture Blueprints](#-recommended-architecture-blueprints)
 - [⚖️ SaaS vs. Open-Source Decision Matrix](#️-saas-vs-open-source-decision-matrix)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [🌟 Star History](#--star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -357,6 +359,32 @@ We welcome contributions to expand this directory with high-quality SaaS tools a
    - For Open-Source tools: Include repository link, license, features, and add the corresponding shields.io star badge linking to its `/stargazers` page.
 3. **Keep Information Factual**: Base descriptions on official vendor technical documentation, G-Cloud procurement sheets, and official GitHub releases.
 4. **Submit a Pull Request**: Provide a clear explanation of your additions or revisions.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring and utilizing **Awesome DNS & Network Security**! If this curated repository helped you enhance your network architecture, evaluate enterprise security tools, or build a self-hosted DNS sinkhole, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to amplify its reach across the community.
+- 🍴 **Fork the repo** to add your own tools or create a personalized reference.
+- 📢 **Share this list** with fellow sysadmins, security analysts, and developers.
+- ☕ **Buy Me a Coffee / Sponsor**: If you'd like to support continued maintenance and new tool reviews, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=githubsponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-DNS-Network-Security&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-DNS-Network-Security&type=date&legend=top-left)
 
 ---
 
