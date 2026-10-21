@@ -83,9 +83,9 @@ The following hosted SaaS solutions provide managed DNS threat blocking, cloud-d
 
 The following open-source solutions provide self-hosted DNS sinkholing, recursive encrypted resolution, zero-trust overlay routing, and network threat mitigation without recurring license fees.
 
-> **Sorted by GitHub Stars Descending** *(Click star badges to inspect live stargazer counts)*
+> **Sorted by GitHub_Stars Descending** *(Click Stars_Badges to inspect live stargazer counts)*
 
-### 1. 🕳️ [Pi-hole](https://github.com/pi-hole/pi-hole) [![GitHub stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=social&color=white)](https://github.com/pi-hole/pi-hole/stargazers)
+### 1. 🕳️ [Pi-hole](https://github.com/pi-hole/pi-hole) [![GitHub_Stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=social&color=white)](https://github.com/pi-hole/pi-hole/stargazers)
 - **License**: EUPL-1.2 | **Primary Language**: C / Shell / PHP
 - **Overview**: The original and most widely deployed open-source network-wide ad blocker and DNS sinkhole. Protects every device connected to your LAN (smart TVs, IoT appliances, smartphones, consoles) without installing client software.
 - **Key Features**:
@@ -98,7 +98,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 2. 🔐 [Tailscale](https://github.com/tailscale/tailscale) [![GitHub stars](https://img.shields.io/github/stars/tailscale/tailscale?style=social&color=white)](https://github.com/tailscale/tailscale/stargazers)
+### 2. 🔐 [Tailscale](https://github.com/tailscale/tailscale) [![GitHub_Stars](https://img.shields.io/github/stars/tailscale/tailscale?style=social&color=white)](https://github.com/tailscale/tailscale/stargazers)
 - **License**: BSD-3-Clause | **Primary Language**: Go
 - **Overview**: Zero-config mesh VPN built on WireGuard with integrated **MagicDNS** that enables secure internal DNS resolution and encrypted split-tunnel routing across all your devices and servers.
 - **Key Features**:
@@ -110,7 +110,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 3. 🛡️ [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) [![GitHub stars](https://img.shields.io/github/stars/AdguardTeam/AdGuardHome?style=social&color=white)](https://github.com/AdguardTeam/AdGuardHome/stargazers)
+### 3. 🛡️ [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) [![GitHub_Stars](https://img.shields.io/github/stars/AdguardTeam/AdGuardHome?style=social&color=white)](https://github.com/AdguardTeam/AdGuardHome/stargazers)
 - **License**: GPL-3.0 | **Primary Language**: Go
 - **Overview**: Modern network-wide ads and tracker blocking DNS server. Functions as an all-in-one DNS server with built-in encrypted protocol support (DoH, DoT, DoQ, and DNSCrypt) in a single standalone binary.
 - **Key Features**:
@@ -122,7 +122,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 4. 🌐 [NetBird](https://github.com/netbirdio/netbird) [![GitHub stars](https://img.shields.io/github/stars/netbirdio/netbird?style=social&color=white)](https://github.com/netbirdio/netbird/stargazers)
+### 4. 🌐 [NetBird](https://github.com/netbirdio/netbird) [![GitHub_Stars](https://img.shields.io/github/stars/netbirdio/netbird?style=social&color=white)](https://github.com/netbirdio/netbird/stargazers)
 - **License**: BSD-3-Clause | **Primary Language**: Go
 - **Overview**: Open-source Zero Trust mesh networking platform built on WireGuard with centralized DNS management, automated peer-to-peer NAT traversal, and identity provider integration.
 - **Key Features**:
@@ -134,7 +134,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 5. 🚫 [HaGeZi DNS Blocklists](https://github.com/hagezi/dns-blocklists) [![GitHub stars](https://img.shields.io/github/stars/hagezi/dns-blocklists?style=social&color=white)](https://github.com/hagezi/dns-blocklists/stargazers)
+### 5. 🚫 [HaGeZi DNS Blocklists](https://github.com/hagezi/dns-blocklists) [![GitHub_Stars](https://img.shields.io/github/stars/hagezi/dns-blocklists?style=social&color=white)](https://github.com/hagezi/dns-blocklists/stargazers)
 - **License**: CC-BY-SA-4.0 | **Primary Language**: Shell / Python
 - **Overview**: The gold standard in curated, high-accuracy DNS blocklists. Provides layered protection tiers (Multi Light, Normal, Pro, Pro++, and Ultimate) with near-zero false positive rates.
 - **Key Features**:
@@ -145,7 +145,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 6. ⚔️ [CrowdSec](https://github.com/crowdsecurity/crowdsec) [![GitHub stars](https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social&color=white)](https://github.com/crowdsecurity/crowdsec/stargazers)
+### 6. ⚔️ [CrowdSec](https://github.com/crowdsecurity/crowdsec) [![GitHub_Stars](https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social&color=white)](https://github.com/crowdsecurity/crowdsec/stargazers)
 - **License**: MIT | **Primary Language**: Go
 - **Overview**: Open-source, collaborative intrusion prevention system (modern successor to Fail2ban). Detects hostile behavior across server logs, application events, and network packets, leveraging a global crowdsourced threat intelligence consensus.
 - **Key Features**:
@@ -156,7 +156,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 7. 🔌 [CoreDNS](https://github.com/coredns/coredns) [![GitHub stars](https://img.shields.io/github/stars/coredns/coredns?style=social&color=white)](https://github.com/coredns/coredns/stargazers)
+### 7. 🔌 [CoreDNS](https://github.com/coredns/coredns) [![GitHub_Stars](https://img.shields.io/github/stars/coredns/coredns?style=social&color=white)](https://github.com/coredns/coredns/stargazers)
 - **License**: Apache-2.0 | **Primary Language**: Go
 - **Overview**: Cloud Native Computing Foundation (CNCF) graduated DNS server with a modular plugin architecture. Serves as the default service discovery DNS server for Kubernetes clusters worldwide.
 - **Key Features**:
@@ -167,7 +167,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 8. 🔒 [DNSCrypt Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) [![GitHub stars](https://img.shields.io/github/stars/DNSCrypt/dnscrypt-proxy?style=social&color=white)](https://github.com/DNSCrypt/dnscrypt-proxy/stargazers)
+### 8. 🔒 [DNSCrypt Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) [![GitHub_Stars](https://img.shields.io/github/stars/DNSCrypt/dnscrypt-proxy?style=social&color=white)](https://github.com/DNSCrypt/dnscrypt-proxy/stargazers)
 - **License**: ISC | **Primary Language**: Go
 - **Overview**: Flexible client-side DNS proxy with comprehensive support for modern encrypted DNS protocols including DNSCrypt v2, Anonymized DNSCrypt, DNS-over-HTTPS (DoH), and Oblivious DoH (ODoH).
 - **Key Features**:
@@ -178,7 +178,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 9. 🎛️ [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer) [![GitHub stars](https://img.shields.io/github/stars/TechnitiumSoftware/DnsServer?style=social&color=white)](https://github.com/TechnitiumSoftware/DnsServer/stargazers)
+### 9. 🎛️ [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer) [![GitHub_Stars](https://img.shields.io/github/stars/TechnitiumSoftware/DnsServer?style=social&color=white)](https://github.com/TechnitiumSoftware/DnsServer/stargazers)
 - **License**: GPL-3.0 | **Primary Language**: C# (.NET)
 - **Overview**: Full-featured authoritative and recursive DNS server with built-in ad/threat blocking and multi-server clustering. Engineered for enterprise and homelab networks needing comprehensive DNS management in one pane of glass.
 - **Key Features**:
@@ -190,7 +190,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 10. 🔥 [Firezone](https://github.com/firezone/firezone) [![GitHub stars](https://img.shields.io/github/stars/firezone/firezone?style=social&color=white)](https://github.com/firezone/firezone/stargazers)
+### 10. 🔥 [Firezone](https://github.com/firezone/firezone) [![GitHub_Stars](https://img.shields.io/github/stars/firezone/firezone?style=social&color=white)](https://github.com/firezone/firezone/stargazers)
 - **License**: Apache-2.0 | **Primary Language**: Rust / Elixir
 - **Overview**: Fast, open-source Zero Trust Network Access (ZTNA) platform built on WireGuard in Rust. Provides least-privilege remote access with granular DNS routing and native identity provider synchronization.
 - **Key Features**:
@@ -201,7 +201,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 11. 📦 [Blocky](https://github.com/0xERR0R/blocky) [![GitHub stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=social&color=white)](https://github.com/0xERR0R/blocky/stargazers)
+### 11. 📦 [Blocky](https://github.com/0xERR0R/blocky) [![GitHub_Stars](https://img.shields.io/github/stars/0xERR0R/blocky?style=social&color=white)](https://github.com/0xERR0R/blocky/stargazers)
 - **License**: Apache-2.0 | **Primary Language**: Go
 - **Overview**: Ultra-fast, lightweight DNS proxy and ad-blocker designed specifically for local networks and Infrastructure-as-Code (IaC) environments.
 - **Key Features**:
@@ -213,7 +213,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 12. 🔄 [Unbound](https://github.com/NLnetLabs/unbound) [![GitHub stars](https://img.shields.io/github/stars/NLnetLabs/unbound?style=social&color=white)](https://github.com/NLnetLabs/unbound/stargazers)
+### 12. 🔄 [Unbound](https://github.com/NLnetLabs/unbound) [![GitHub_Stars](https://img.shields.io/github/stars/NLnetLabs/unbound?style=social&color=white)](https://github.com/NLnetLabs/unbound/stargazers)
 - **License**: BSD-3-Clause | **Primary Language**: C
 - **Overview**: High-security, validating, recursive, and caching DNS resolver designed by NLnet Labs. Commonly deployed as the upstream resolver behind Pi-hole or AdGuard Home to bypass third-party ISP upstream servers entirely.
 - **Key Features**:
@@ -224,7 +224,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 13. 🚀 [MassDNS](https://github.com/blechschmidt/massdns) [![GitHub stars](https://img.shields.io/github/stars/blechschmidt/massdns?style=social&color=white)](https://github.com/blechschmidt/massdns/stargazers)
+### 13. 🚀 [MassDNS](https://github.com/blechschmidt/massdns) [![GitHub_Stars](https://img.shields.io/github/stars/blechschmidt/massdns?style=social&color=white)](https://github.com/blechschmidt/massdns/stargazers)
 - **License**: GPL-3.0 | **Primary Language**: C
 - **Overview**: High-performance stub resolver capable of resolving millions of domain names concurrently. Capable of resolving over 350,000 queries per second using asynchronous epoll/sockets.
 - **Key Features**:
@@ -235,7 +235,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 14. 🔎 [dnsx](https://github.com/projectdiscovery/dnsx) [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/dnsx?style=social&color=white)](https://github.com/projectdiscovery/dnsx/stargazers)
+### 14. 🔎 [dnsx](https://github.com/projectdiscovery/dnsx) [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/dnsx?style=social&color=white)](https://github.com/projectdiscovery/dnsx/stargazers)
 - **License**: MIT | **Primary Language**: Go
 - **Overview**: Fast and multi-purpose DNS toolkit by ProjectDiscovery designed for running multiple DNS queries against lists of domains, verifying DNS wildcards, and extracting security records.
 - **Key Features**:
@@ -246,7 +246,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 15. 🌐 [DNS-over-HTTPS](https://github.com/m13253/dns-over-https) [![GitHub stars](https://img.shields.io/github/stars/m13253/dns-over-https?style=social&color=white)](https://github.com/m13253/dns-over-https/stargazers)
+### 15. 🌐 [DNS-over-HTTPS](https://github.com/m13253/dns-over-https) [![GitHub_Stars](https://img.shields.io/github/stars/m13253/dns-over-https?style=social&color=white)](https://github.com/m13253/dns-over-https/stargazers)
 - **License**: MIT | **Primary Language**: Go
 - **Overview**: High-performance RFC 8484 DNS-over-HTTPS client and server implementation. Ideal for standing up a custom DoH endpoint or acting as an encrypted bridge between local network clients and public resolvers.
 - **Key Features**:
@@ -257,7 +257,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 16. 🔒 [Stubby](https://github.com/getdnsapi/stubby) [![GitHub stars](https://img.shields.io/github/stars/getdnsapi/stubby?style=social&color=white)](https://github.com/getdnsapi/stubby/stargazers)
+### 16. 🔒 [Stubby](https://github.com/getdnsapi/stubby) [![GitHub_Stars](https://img.shields.io/github/stars/getdnsapi/stubby?style=social&color=white)](https://github.com/getdnsapi/stubby/stargazers)
 - **License**: BSD-3-Clause | **Primary Language**: C
 - **Overview**: Local DNS Privacy stub resolver developed by the getdns project. Encrypts DNS queries sent from local client machines using DNS-over-TLS (DoT).
 - **Key Features**:
@@ -268,7 +268,7 @@ The following open-source solutions provide self-hosted DNS sinkholing, recursiv
 
 ---
 
-### 17. 🛡️ [modDNS](https://github.com/ivpn/moddns) [![GitHub stars](https://img.shields.io/github/stars/ivpn/moddns?style=social&color=white)](https://github.com/ivpn/moddns/stargazers)
+### 17. 🛡️ [modDNS](https://github.com/ivpn/moddns) [![GitHub_Stars](https://img.shields.io/github/stars/ivpn/moddns?style=social&color=white)](https://github.com/ivpn/moddns/stargazers)
 - **License**: GPL-3.0 | **Primary Language**: Go / TypeScript
 - **Overview**: Audited full-stack DNS security platform engineered by the IVPN team. Implements a modern microservices architecture providing customizable DNS filtering profiles and encrypted protocols.
 - **Key Features**:
@@ -356,7 +356,7 @@ We welcome contributions to expand this directory with high-quality SaaS tools a
 1. **Fork the Repository**: Click the `Fork` button at the top of this repo.
 2. **Add or Update Entries**:
    - For SaaS tools: Include specific starting tier pricing, explicit free tier / trial limits, and company scale metrics in the table.
-   - For Open-Source tools: Include repository link, license, features, and add the corresponding shields.io star badge linking to its `/stargazers` page.
+   - For Open-Source tools: Include repository link, license, features, and add the corresponding shields.io Stars_Badge linking to its `/stargazers` page.
 3. **Keep Information Factual**: Base descriptions on official vendor technical documentation, G-Cloud procurement sheets, and official GitHub releases.
 4. **Submit a Pull Request**: Provide a clear explanation of your additions or revisions.
 
